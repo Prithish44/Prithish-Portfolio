@@ -4,7 +4,7 @@ A modern AI Engineer portfolio built with **Next.js 16**, **TypeScript**, **Tail
 
 ## 🌐 Live Demo
 
-https://prithish-portfolio.vercel.app        
+https://prithish-portfolio.vercel.app           
 
 ---
 
@@ -16,7 +16,7 @@ https://prithish-portfolio.vercel.app
 - Smooth scrolling
 - AI-focused project showcase
 - Skills & Technologies
-- Experience Timeline
+- Experience Timeline   
 - Education
 - Certifications
 - Contact section
