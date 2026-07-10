@@ -47,14 +47,14 @@ const projects = [
     demo: "#",
   },  
   {
-    title: "QeikCareer - AI Multi - Agent Job Recommendation System",
+    title: "QwikCareer - AI Multi - Agent Job Recommendation System",
     description:
       "Built a multi agent pipeline scraping, ranking, and NLP matching top 10 job to user profile and automated daily email delivery.",
     technologies: [
       "Python",
       "Gemini 2.5 Flash",
       "SerpAPI",
-      "AI Agent",
+      "AI Agent",    
     ],
     github: "https://github.com/Prithish44/QwikCareer",
     demo: "#",
