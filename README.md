@@ -57,7 +57,7 @@ https://prithish-portfolio.vercel.app
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/prithish-portfolio.git
+https://github.com/Prithish44/Prithish-Portfolio.git       
 
 cd prithish-portfolio
 
