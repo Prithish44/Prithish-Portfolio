@@ -19,8 +19,8 @@ const education = [
    {
     degree: "Secondary (WBCSE)",
     institute: "Sinthee Ramkrishna Sangha Vidyamandir",
-    duration: "2021 - 2023",
-    // cgpa: "Science",
+    duration: "2011 - 2021",
+    //  cgpa: "Science",
   },
 ];
 
