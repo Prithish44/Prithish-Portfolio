@@ -43,7 +43,7 @@ export const certificates = [
     title: "Database Management System - Part I",
     issuer: "Infosys Springboard",
     type: "Course Certificate",
-    date: "June 2024",
+    date: "June 2026",                   
     credential: "https://www.linkedin.com/in/prithish-saha-780682359/details/certifications/",
     skills: ["SQL", "Database", "DBMS"],
   },  
