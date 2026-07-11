@@ -65,7 +65,7 @@ export default function Experience() {
       <div className="relative mt-20">
 
         {/* Timeline */}
-        <div className="absolute left-5 top-0 h-full w-[3px] rounded-full bg-gradient-to-b from-cyan-400 via-sky-500 to-violet-500"></div>
+        <div className="absolute left-[28] top-0 h-full w-[3px] rounded-full bg-gradient-to-b from-cyan-400 via-sky-500 to-violet-500"></div>
 
         {experiences.map((exp, index) => (
           <motion.div
